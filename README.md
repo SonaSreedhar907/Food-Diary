@@ -14,5 +14,5 @@ Frontend - ReactJS
 Backend - NodeJS
 Api - https://www.themealdb.com/api.php
 
-Features - Pop -up
-         - Pagination
+
+         
